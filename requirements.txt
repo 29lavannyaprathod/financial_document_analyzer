@@ -1,0 +1,12 @@
+crewai==0.130.0
+
+fastapi==0.110.3
+uvicorn==0.29.0
+
+python-dotenv==1.0.1
+
+pypdf==4.2.0
+
+tiktoken==0.7.0
+
+openai==1.83.0
